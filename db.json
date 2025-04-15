@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "name": "admin",
+      "age": "22",
+      "email": "admin@gmail.com",
+      "address": "surat , guj",
+      "password": "admin123",
+      "id": "1744691171536"
+    },
+    {
+      "name": "jash patel",
+      "age": "21",
+      "email": "jash@gmail.com",
+      "address": "surat",
+      "password": "jash123",
+      "id": "1744691526080"
+    }
+  ]
+}

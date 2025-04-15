@@ -1,0 +1,16 @@
+.userInfoContainer{
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 90vh;
+}
+
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    gap: 10px;
+    font-weight: bolder;
+}
