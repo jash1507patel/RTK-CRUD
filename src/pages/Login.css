@@ -1,0 +1,13 @@
+.mainContainer{
+    /* width: 100vw; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 90vh;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
